@@ -1,4 +1,4 @@
-/*
+9/*
 ### Title: Hoosiers: Gridiron Glory (2025 Reboot)
 
 #### Logline:
@@ -30,10 +30,17 @@ Bloomington, Indiana, home of the Indiana University Hoosiers football team. The
 - Rising Tension: Practices focus on countering OSU's speed rush. Fernando and Hale clash again – Fernando wants flashy plays; Hale insists on "measure twice, cut once" (original movie nod). Romantic subplot: Fernando and Sarah share a quiet moment at a bonfire, where he admits his fears of failure.
 
 #### Act 3: The Climax (The Big Ten Championship Game)
-- **Game Day: December 6, 2025, Lucas Oil Stadium, Indianapolis**. Neutral site, but IU fans turn it into a home game. OSU favored by 21 points. Pregame: Hale gives a fiery speech: "They've got the stars, the money, the hype. We've got heart. Measure the field – it's the same 100 yards for everyone."
-- **First Half**: OSU dominates early, up 17-0. Fernando throws an INT returned for TD. Crowd boos; Fernando spirals, flashing back to his injury. Halftime: Hale pulls him aside in the locker room (echoing the original's measuring scene): "Football's not about the scoreboard. It's about the fight." Shooter diagrams a trick play.
-- **Second Half Comeback**: IU's defense, led by Ox, forces turnovers. Fernando finds rhythm: A no-look pass for TD, a bootleg run. Score ties at 24-24 with 2 minutes left.
-- **Final Drive**: IU ball at their 20. Fernando calls an audible, evading sacks, hitting short passes. With 10 seconds left, 4th and goal from the 5. Hale signals a field goal for OT; Fernando overrides, faking a handoff and lobbing a fade to the end zone – TOUCHDOWN! IU wins 30-24.
+- **Game Day: December 6, 2025, Lucas Oil Stadium, Indianapolis**. Neutral site, but IU fans turn it into a home game. OSU favored by 21 points. Pregame: Hale gives a fiery speech: "They've got the stars, the money, the hype. We've got heart. Measure the field – it's the same 100 yards for everyone.
+- **4th quarter**:
+at one point indiana and osu are tied.
+for 189 passing yards.
+
+Fernando makes 2 amazing passes and stop the Ohio state offense. 
+
+Ohio State misses a field goal,
+
+hoosiers win 13-10. 
+
 - **Resolution**: Jubilant celebration. Fernando hugs his mom in the stands. Hale gets a contract extension. Epilogue: Fernando declares for the NFL Draft, crediting Hale. Fade out on the team hoisting the Big Ten trophy, with "Hoosiers" chanted by fans.
 
 #### Themes:
