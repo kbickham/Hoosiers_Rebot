@@ -1,0 +1,51 @@
+/*
+### Title: Hoosiers: Gridiron Glory (2025 Reboot)
+
+#### Logline:
+In the heart of Indiana, a washed-up coach and a prodigious but troubled quarterback named Fernando lead an underdog college football team on an improbable run to the 2025 Big Ten Championship, facing off against powerhouse Ohio State in a battle that tests their grit, redemption, and the spirit of the Hoosiers.
+
+#### Setting:
+Bloomington, Indiana, home of the Indiana University Hoosiers football team. The story unfolds during the 2025 college football season, amid crisp autumn leaves, roaring Memorial Stadium crowds, and the intense pressure of Big Ten rivalries. Flashbacks to Fernando's high school days in a small Midwest town add layers of personal struggle.
+
+#### Main Characters:
+- **QB Fernando Ramirez**: A 21-year-old transfer quarterback from a junior college, with raw talent but a chip on his shoulder. Haunted by a past injury and family issues (his father abandoned the family after a gambling scandal), Fernando is fiery, impulsive, and brilliant on the field. He's the heart of the team, but his ego clashes with authority.
+- **Coach Norman Hale**: A grizzled former NFL assistant coach (inspired by the original's Norman Dale), fired years ago for a locker-room altercation. Hired by IU as a last-chance gig, he's methodical, old-school, and demands discipline. Sees potential in Fernando but pushes him to his limits.
+- **Assistant Coach Jimmy "Shooter" Ellis**: The alcoholic but wise sidekick (nod to the original's Shooter), a former IU player who knows the program's history of mediocrity.
+- **Team Captain LB Marcus "Ox" Thompson**: The no-nonsense linebacker who rallies the defense and becomes Fernando's reluctant mentor.
+- **Love Interest/Rival: Sarah Kline**: A journalism student covering the team, who challenges Fernando's bravado and uncovers his vulnerabilities.
+- **Antagonist: Ohio State Buckeyes Coach Ryan Day (fictionalized)**: Portrayed as a slick, resource-rich powerhouse leader, symbolizing the "big money" programs that dwarf IU.
+
+#### Act 1: The Setup (The Arrival and Early Struggles)
+- **Opening Scene**: Flashback to 2024: Fernando, in a JUCO game, throws a game-winning Hail Mary but tears his ACL in the process. Cut to present: He's rehabbed and transferred to IU, a program that's been irrelevant in Big Ten football for decades (last major bowl win in the '90s). The team is 2-10 the previous year, with low morale and empty stands.
+- Coach Hale arrives in Bloomington, driving an old pickup, greeted by skeptical athletic director. He's tasked with rebuilding the team around Fernando, who's already causing drama by skipping team meetings.
+- First practice: Fernando dazzles with arm strength but argues with Hale over play-calling. Hale benches him, enforcing "fundamentals first" – endless drills on footwork and reads. Teammates grumble; Ox calls Fernando a "prima donna."
+- Early games: IU starts 1-2, losing to Michigan State and Northwestern. Fernando throws picks under pressure. Off-field: Fernando deals with homesickness, calling his single mom who works two jobs. Sarah interviews him, sparking tension/flirtation.
+- Inciting Incident: After a blowout loss to Purdue (rivalry game), Hale discovers Shooter's drinking problem but gives him a chance to sober up as a scout. Fernando storms out, but Hale confronts him: "Talent without heart is just noise." Fernando agrees to Hale's system.
+
+#### Act 2: The Rise (Building the Team and Momentum)
+- **Montage Sequence**: Hale implements grueling training: 5 AM runs in the Indiana hills, film sessions breaking down Ohio State's dominant defense (they're undefeated, aiming for a national title). Fernando bonds with teammates through shared pain – helping Ox with his studies, mentoring a freshman WR.
+- Key Wins: IU upsets Illinois on a last-second Fernando TD pass. Then beats Wisconsin in the snow, with Fernando scrambling for a crucial first down despite re-aggravating his knee. Crowd starts filling Memorial Stadium; "Hoosier Hysteria" (basketball term) spills into football.
+- Personal Arcs: Fernando visits his old high school, reflecting on his dad's betrayal. Hale opens up about his past firing – he punched a player who was bullying a teammate. Shooter stays sober, providing key intel on opponents.
+- Midpoint Twist: Big Ten standings heat up. IU climbs to 7-2, clinching a spot in the Championship after beating Michigan in OT (Fernando's 400-yard game). But scandal hits: Rumors of Fernando's eligibility issues (JUCO credits questioned). Sarah investigates, finding it's a smear from Ohio State boosters. This unites the team.
+- Rising Tension: Practices focus on countering OSU's speed rush. Fernando and Hale clash again – Fernando wants flashy plays; Hale insists on "measure twice, cut once" (original movie nod). Romantic subplot: Fernando and Sarah share a quiet moment at a bonfire, where he admits his fears of failure.
+
+#### Act 3: The Climax (The Big Ten Championship Game)
+- **Game Day: December 6, 2025, Lucas Oil Stadium, Indianapolis**. Neutral site, but IU fans turn it into a home game. OSU favored by 21 points. Pregame: Hale gives a fiery speech: "They've got the stars, the money, the hype. We've got heart. Measure the field – it's the same 100 yards for everyone."
+- **First Half**: OSU dominates early, up 17-0. Fernando throws an INT returned for TD. Crowd boos; Fernando spirals, flashing back to his injury. Halftime: Hale pulls him aside in the locker room (echoing the original's measuring scene): "Football's not about the scoreboard. It's about the fight." Shooter diagrams a trick play.
+- **Second Half Comeback**: IU's defense, led by Ox, forces turnovers. Fernando finds rhythm: A no-look pass for TD, a bootleg run. Score ties at 24-24 with 2 minutes left.
+- **Final Drive**: IU ball at their 20. Fernando calls an audible, evading sacks, hitting short passes. With 10 seconds left, 4th and goal from the 5. Hale signals a field goal for OT; Fernando overrides, faking a handoff and lobbing a fade to the end zone – TOUCHDOWN! IU wins 30-24.
+- **Resolution**: Jubilant celebration. Fernando hugs his mom in the stands. Hale gets a contract extension. Epilogue: Fernando declares for the NFL Draft, crediting Hale. Fade out on the team hoisting the Big Ten trophy, with "Hoosiers" chanted by fans.
+
+#### Themes:
+- Redemption and second chances (for Hale, Fernando, and the program).
+- Underdog spirit vs. big-program entitlement.
+- Community and family in the face of adversity.
+- Modern twists: NIL deals, transfer portal chaos, mental health in athletes.
+
+#### Notes for Rough Draft:
+- Runtime: Aim for 120 minutes.
+- Visual Style: Gritty, realistic football action (inspired by Friday Night Lights), with slow-mo highlights and Indiana landscapes.
+- Soundtrack: Mix of classic rock (e.g., "Eye of the Tiger" nod) and modern hip-hop for Fernando's vibe.
+- Casting Ideas: Fernando – A rising Latino actor like Xolo Maridueña. Hale – Gene Hackman reprisal or Dennis Quaid. Sarah – Sydney Sweeney type.
+This is a rough outline; scenes can be expanded with dialogue. For example, Hale's mantra: "Four passes, then run. Fundamentals win championships." Let me know if you want to flesh out specific scenes!
+/*
